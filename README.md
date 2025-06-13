@@ -1,8 +1,11 @@
 Retail Demand Forecasting
+
 In this project I focused on retail demand forecasting using XGBoost that is combined with a dynamic user simulation module to model user behavior impacting demand.
+
 📝 Key components:
 •	Libraries: Pandas, NumPy, Matplotlib, Seaborn, XGBoost, scikit-learn
 •	Data: https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset
+
 📝Workflow:
 1.	Data Exploration: Understand the structure, missing values, distributions.  
 2.	Preprocessing: Handle missing values, encode categorical variables (if any), normalize/scale as needed.  
